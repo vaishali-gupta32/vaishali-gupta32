@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaishali-gupta32
 - 👀 I’m interested in learning new coding skills.
-- 🌱 I’m currently learning c programming.
+- 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on projects in future.
 - 📫 You can reach out me here.
 
