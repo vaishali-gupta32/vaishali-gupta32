@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @vaishali-gupta32
-- 👀 I’m interested in learning new coding skills.
-- 🌱 I’m currently learning react js.
-- 💞️ I’m looking to collaborate on projects in future.
-- 📫 You can reach out www.linkedin.com/in/vaishali-gupta-bb4a34289
+👋 Namaste, I'm Vaishali!
+
+
+🌱 *About Me:*
+- 🎓 Sophomore at IIIT Kota, majoring in CSE branch.
+- 💻 Passionate about web development, open-source, DSA and continuous learning.
+
+🌟 *Skills:*
+- *Languages:* JavaScript, Java, C++, C
+- *Web Development:* HTML, CSS, React
+- *Tools:* Git, VS Code
+
+🔭 *Current Projects:*
+- Building a react website.
+- Contributing to GSSOC Projects.
+
+📫 *How to Reach Me:*
+- vaishaligupta1521@gmail.com
+- www.linkedin.com/in/vaishali-gupta-bb4a34289
+
+📝 *Fun Fact:*
+- When I'm not coding, you can find me writing poems or playing badminton.
 
 <!---
 vaishali-gupta32/vaishali-gupta32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
