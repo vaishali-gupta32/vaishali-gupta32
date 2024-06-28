@@ -16,7 +16,7 @@
 
 📫 *How to Reach Me:*
 - vaishaligupta1521@gmail.com
-- www.linkedin.com/in/vaishali-gupta-bb4a34289
+- www.linkedin.com/in/vaishali-gupta32
 
 📝 *Fun Fact:*
 - When I'm not coding, you can find me writing poems or playing badminton.
