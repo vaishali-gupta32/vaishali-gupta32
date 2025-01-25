@@ -3,11 +3,11 @@
 
 🌱 *About Me:*
 - 🎓 Sophomore at IIIT Kota, majoring in CSE branch.
-- 💻 Passionate about web development, open-source, DSA and continuous learning.
+- 💻 Full stack developer, open-source, DSA and continuous learning.
 
 🌟 *Skills:*
 - *Languages:* JavaScript, Java, C++, C
-- *Web Development:* HTML, CSS, React
+- *Web Development:* HTML, CSS, React, MongoDB, Express, Nodejs
 - *Tools:* Git, VS Code
 
 🔭 *Current Projects:*
