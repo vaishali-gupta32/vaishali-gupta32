@@ -4,9 +4,8 @@
 
 ## 🌱 About Me
 
-🎓 Pre-final year **B.Tech CSE student at IIIT Kota**  
-💻 Full Stack Developer | Open Source Contributor | Data Analytics
-🤖 Exploring **AI, Data Science**  
+🎓 Final year **B.Tech CSE student at IIIT Kota**  
+💻 Full Stack Developer | AI/ML | Open Source Contributor | Data Analytics
 📈 Aspiring **Software Engineer**  
 🚀 Passionate about **DSA & Problem Solving**
 
